@@ -1,0 +1,13 @@
+Qty,Value,Parts,Description,MPN
+1,4-WIRE-150MILS-CONN,X7,rectangular connector,22232031
+2,BNC-V,"X5, X6",BNC Connector.,5227222-3
+4,BNC-V-HV,"X1, X2, X3, X4",BNC Connector with ground pin bended,5227222-3
+20,4.7uF,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20",Ceramic capacitor SMD 0805,C1608X5R1V475M080AC
+4,DNP,"C23, C24, C25, C26",DO NOT PLACE,
+2,220uF,"C21, C22",Electrolythic capacitor,EEE-1VA221UP
+2,LF356,"IC5, IC10",Low noise op-amp,LF356N/NOPB
+8,LM7171,"IC1, IC2, IC3, IC4, IC6, IC7, IC8, IC9",High slew-rate op-amp,LM7171BIN/NOPB
+4,10k,"R13, R14, R29, R30",Resistor SMD 0603,RR0816P-103-D
+16,2k,"R5, R6, R7, R8, R9, R10, R11, R12, R21, R22, R23, R24, R25, R26, R27, R28",Resistor SMD 0603,RR0816P-202-D
+7,1,"R1, R2, R3,R4, R17, R18, R19, R20",Resistor SMD 1206,RMCF1206FT1R00
+2,20k,"R15, R31",Trimmer 25 turns,3299W-1-203LF
